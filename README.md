@@ -1,5 +1,5 @@
 # task-list-application-android
-Task List Application Using Android
+Task List Application (Android)
 
 # Software Requirement
 - Programming Language : Java
